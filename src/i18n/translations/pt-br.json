@@ -1,6 +1,7 @@
 {
   "translation": {
     "welcome":"Bem-vindo ao melhor webapp do mundo",
-    "welcomeYouCan": "onde você pode encontrar o que quiser"
+    "welcomeYouCan": "onde você pode encontrar o que quiser",
+    "selectYourLanguage": "Selecione um idioma"
   }
 }

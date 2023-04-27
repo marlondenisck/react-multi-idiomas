@@ -1,0 +1,17 @@
+.language-switcher {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.language-switcher  > span {
+  margin-right: 10px; 
+ }
+.language-switcher > button {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 70px;
+  margin-right: 10px;
+}
